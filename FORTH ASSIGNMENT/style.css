@@ -1,0 +1,123 @@
+*{
+    margin: 0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+.full-container{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2d2d2d;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 50px 0px 10px;
+}
+li {
+    display: inline;
+    padding-left: 15px;
+}
+a{
+    font-size: 30px;
+    color: #2d2d2d;
+    text-decoration: none;
+}
+.center{
+    font-size: 30px;
+    padding: 4% 0% 0% 4%;
+}
+button{
+    margin: 70px 0% 0% 0%;
+    background-color: #2d2d2d;
+    color: white;
+    width: 340px;
+    height: 120px;
+    font-size: 30px;
+    border: none;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #5e5e5e;
+    color: #2d2d2d;
+}
+.main-pic{
+    /* margin: -25% 0% 0% 50%; */
+    position: absolute;
+    top: 150px;
+    right: 40px;
+}
+h1{
+    font-size: 110px;
+}
+.brand-logo{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 150px 50px 0px;
+}
+.boxes{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 85px 250px 0px;
+}
+.box-heating{
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 220px 0px;
+}
+.box-dis{
+    font-size: 27px;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 150px 0px;
+}
+.sec-heading{
+    position: relative;
+    bottom: -300px;
+    font-size: 30px;
+}
+.one-picture{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 380px 20px 0px;
+}
+.one-project{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 250px 0px;
+}
+.one-art{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 270px 0px;
+}
+.two-picture{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px 20px 0px;
+}
+.two-project{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 250px 0px;
+}
+.two-art{
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 270px 0px;
+}
